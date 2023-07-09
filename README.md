@@ -65,7 +65,7 @@
       <img align="center" alt="Logo do C" height="30" width="40" title="AdobePremierePro" src="https://skillicons.dev/icons?i=pr">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do Java" height="30" width="40" title="adobephotoshop" src="https://skillicons.dev/icons?i=ps">
+      <img align="center" alt="Logo do Java" height="30" width="40" title="AdobePhotoshop" src="https://skillicons.dev/icons?i=ps">
     </a>
   </p>
 </div>
