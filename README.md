@@ -83,4 +83,6 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
 </a>
-[![](https://visitcount.itsvg.in/api?id=ibrahimkahramann&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ibrahimkahramann&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
