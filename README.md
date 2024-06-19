@@ -77,6 +77,8 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/ibrahim-kahraman/"><img height="35" width="140" title="linkedin.com/in/ibrahim-kahraman" src="./img/linkedin.png">
     </a>
+    <a href="https://leetcode.com/u/lotpik/"><img height="35" width="140" title="leetcode.com/u/lotpik" src="./img/leetcode.png">
+    </a>
   </p>
 </div>
 
