@@ -86,5 +86,5 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
 </a>
 <a href="https://github.com/ibrahimkahramann">
-  <img src="https://visitcount.itsvg.in/api?id=ibrahimkahramann&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  ![](https://komarev.com/ghpvc/?username=your-github-username)
 </a>
